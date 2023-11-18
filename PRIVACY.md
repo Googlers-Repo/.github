@@ -1,9 +1,9 @@
 # Privacy Policy
 
-This privacy notice for Googlers Repo (GR, Der_Googler & DerGoogler) ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
+This privacy notice for Googlers Repo (GR, Der_Googler & DerGoogler) ("we," "us,", "our", or "I"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 
 - Visit our website at https://dergoogler.com, or any website of ours that links to this privacy notice
-- Download and use our mobile application (any app our), or any other application of ours that links to this privacy notice
+- Download and use our mobile application (any app), or any other application of ours that links to this privacy notice
 - Engage with us in other related ways, including any sales, marketing, or events
 
 ## Information Collection and Use
