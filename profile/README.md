@@ -2,4 +2,7 @@
 
 Welcome to the private repository of **Der_Googler** (also known as **DerGoogler**)!
 
-Here you can get exclusive Android mods and more. For all projects the same [privacy policy](https://dergoogler.com/legal/privacy-policy) & [Terms of Service](https://dergoogler.com/legal/tos) applies. 
+Here you can get exclusive Android mods and more.
+
+- [Privacy Policy](https://dergoogler.com/legal/privacy-policy)
+- [Terms of Service](https://dergoogler.com/legal/tos) applies. 
